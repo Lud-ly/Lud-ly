@@ -1,17 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I design and develop web and mobile applications using the most suitable technologies for each project (Symfony, React, TypeScript, Next.js, Flutter).
-
-    🚀 I am passionate about innovation, open source, and building robust, scalable solutions.
-
-    🤝 I am looking for opportunities to collaborate on exciting projects, especially in fullstack, API, or mobile development.
-
-    🧑‍🤝‍🧑 I enjoy sharing knowledge and learning from others, whether on GitHub or at tech meetups.
-
-    🌱 I am currently improving my skills in cloud architecture and DevOps (Docker, CI/CD, Kubernetes).
-
-    💬 Feel free to ask me for advice on choosing a tech stack, optimizing an API, or structuring a complex web project.
-
-    ⚡ Fun fact: I once coded a web app on a train between Montpellier and Marseille!
+I’m a passionate developer who builds robust web and mobile apps with modern technologies, enjoys collaborating on innovative projects, and is always learning and sharing about cloud, DevOps, and fullstack development
 
 
 # 💻 Tech Stack:
